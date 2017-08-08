@@ -1,0 +1,21 @@
+
+body {
+    background-color: lightblue;
+}
+
+head {
+    background-color: red;
+}
+
+
+h1 {
+    color: green;
+    text-align: center;
+    background-color: yellow;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: black;
+}
